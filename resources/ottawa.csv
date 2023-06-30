@@ -113,7 +113,7 @@ variation:Mode356,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,
 variation:Mode357,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,yes,yes,yes,yes
 variation:Mode400,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes
 variation:Mode401,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes
-variation:Mode500,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,yes,yes,yes
+variation:Mode500,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,no,yes,yes,yes,yes
 variation:Mode501,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes
 variation:Mode503,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes
 variation:Mode504,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes
